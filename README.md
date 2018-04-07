@@ -11,7 +11,7 @@ please read it __carefully__ !
 - Bios 1.3.5
 - USA-International keyboard layout
 
-Target BIOS -> 1.3.5 \
+Target BIOS -> 1.3.5 Note: Also working on BIOS 2.6.2
 Target OS -> 10.12.6
 
 ### Updated files:
